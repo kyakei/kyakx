@@ -14,7 +14,7 @@ pip install kyakx
 ### **Manual Installation**
 If you prefer running it manually:  
 ```sh
-git clone https://github.com/your-github-username/kyakx.git
+git clone https://github.com/kyakei/kyakx.git
 cd kyakx
 pip install -r requirements.txt
 python3 cli.py
