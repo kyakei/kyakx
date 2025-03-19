@@ -5,6 +5,11 @@
 ```sh
 pipx install kyakx
 ```
+or
+
+```sh
+pip install kyakx
+```
 
 ### **Manual Installation**
 If you prefer running it manually:  
