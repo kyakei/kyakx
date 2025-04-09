@@ -29,12 +29,6 @@ Or, if running from source:
 ```sh
 python3 cli.py
 ```
-
----
-
-## **Upcoming**
-- **MSFVenom Payload Generator**
-
 ---
 
 ## **License**
