@@ -3,7 +3,7 @@
 __version__ = "1.2.0"
 __author__ = "kyakei"
 # Email removed for privacy
-__description__ = "A powerful web exploitation toolkit"
+__description__ = "A powerful exploitation toolkit"
 
 def get_version_info():
     """Return formatted version information."""
